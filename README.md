@@ -16,10 +16,6 @@ GifExpertApp es una aplicación web que permite buscar y visualizar GIFs animado
 - **CSS** 🎨 (para el diseño de la interfaz)  
 - **Fetch API** 🌐 (para obtener datos de Giphy)  
 
-## 📷 Vista previa  
-
-_Agrega aquí una imagen o GIF de la aplicación en funcionamiento._  
-
 ## 🚀 Instalación y ejecución  
 
 1. **Clona este repositorio**:  
